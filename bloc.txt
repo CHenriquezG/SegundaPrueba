@@ -1,0 +1,15 @@
+environmetal = ambiente
+issue = problema
+concerned  = preocupado/a
+adaptar = to adapt
+waste = desperdiciar
+naturaleza = nature
+forceful = energico/a
+wind = viento
+kept = mantenido/a
+diminish = decrease 
+
+5
+6
+9
+10
