@@ -26,7 +26,7 @@
                </cursor>
             </VBox>
             <Button fx:id="Rotar" layoutX="66.0" layoutY="207.0" mnemonicParsing="false" onAction="#rotar" text="Rotar" />
-            <Label fx:id="Manuscrito" layoutX="134.0" layoutY="147.0" prefHeight="35.0" prefWidth="56.0" style="-fx-background-color: BLUE;" text="hola" textFill="#ed0707">
+            <Label fx:id="Manuscrito" layoutX="124.0" layoutY="38.0" prefHeight="35.0" prefWidth="56.0" style="-fx-background-color: BLUE;" text="hola" textFill="#ed0707">
                <font>
                   <Font size="24.0" />
                </font>
